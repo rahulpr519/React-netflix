@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/netflix/static/css/main.7f38009c.chunk.css",
-    "main.js": "/netflix/static/js/main.9a0153bd.chunk.js",
-    "main.js.map": "/netflix/static/js/main.9a0153bd.chunk.js.map",
-    "runtime-main.js": "/netflix/static/js/runtime-main.d6c320f7.js",
-    "runtime-main.js.map": "/netflix/static/js/runtime-main.d6c320f7.js.map",
-    "static/js/2.c705a371.chunk.js": "/netflix/static/js/2.c705a371.chunk.js",
-    "static/js/2.c705a371.chunk.js.map": "/netflix/static/js/2.c705a371.chunk.js.map",
-    "index.html": "/netflix/index.html",
-    "static/css/main.7f38009c.chunk.css.map": "/netflix/static/css/main.7f38009c.chunk.css.map",
-    "static/js/2.c705a371.chunk.js.LICENSE.txt": "/netflix/static/js/2.c705a371.chunk.js.LICENSE.txt"
+    "main.css": "/rahulpr519/React-netflix/static/css/main.7f38009c.chunk.css",
+    "main.js": "/rahulpr519/React-netflix/static/js/main.9a0153bd.chunk.js",
+    "main.js.map": "/rahulpr519/React-netflix/static/js/main.9a0153bd.chunk.js.map",
+    "runtime-main.js": "/rahulpr519/React-netflix/static/js/runtime-main.a2fde901.js",
+    "runtime-main.js.map": "/rahulpr519/React-netflix/static/js/runtime-main.a2fde901.js.map",
+    "static/js/2.6edcc1fb.chunk.js": "/rahulpr519/React-netflix/static/js/2.6edcc1fb.chunk.js",
+    "static/js/2.6edcc1fb.chunk.js.map": "/rahulpr519/React-netflix/static/js/2.6edcc1fb.chunk.js.map",
+    "index.html": "/rahulpr519/React-netflix/index.html",
+    "static/css/main.7f38009c.chunk.css.map": "/rahulpr519/React-netflix/static/css/main.7f38009c.chunk.css.map",
+    "static/js/2.6edcc1fb.chunk.js.LICENSE.txt": "/rahulpr519/React-netflix/static/js/2.6edcc1fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6c320f7.js",
-    "static/js/2.c705a371.chunk.js",
+    "static/js/runtime-main.a2fde901.js",
+    "static/js/2.6edcc1fb.chunk.js",
     "static/css/main.7f38009c.chunk.css",
     "static/js/main.9a0153bd.chunk.js"
   ]
