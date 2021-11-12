@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rahulpr519/React-netflix/static/css/main.7f38009c.chunk.css",
-    "main.js": "/rahulpr519/React-netflix/static/js/main.9a0153bd.chunk.js",
-    "main.js.map": "/rahulpr519/React-netflix/static/js/main.9a0153bd.chunk.js.map",
-    "runtime-main.js": "/rahulpr519/React-netflix/static/js/runtime-main.a2fde901.js",
-    "runtime-main.js.map": "/rahulpr519/React-netflix/static/js/runtime-main.a2fde901.js.map",
-    "static/js/2.6edcc1fb.chunk.js": "/rahulpr519/React-netflix/static/js/2.6edcc1fb.chunk.js",
-    "static/js/2.6edcc1fb.chunk.js.map": "/rahulpr519/React-netflix/static/js/2.6edcc1fb.chunk.js.map",
-    "index.html": "/rahulpr519/React-netflix/index.html",
-    "static/css/main.7f38009c.chunk.css.map": "/rahulpr519/React-netflix/static/css/main.7f38009c.chunk.css.map",
-    "static/js/2.6edcc1fb.chunk.js.LICENSE.txt": "/rahulpr519/React-netflix/static/js/2.6edcc1fb.chunk.js.LICENSE.txt"
+    "main.css": "/React-netflix/static/css/main.7f38009c.chunk.css",
+    "main.js": "/React-netflix/static/js/main.9a0153bd.chunk.js",
+    "main.js.map": "/React-netflix/static/js/main.9a0153bd.chunk.js.map",
+    "runtime-main.js": "/React-netflix/static/js/runtime-main.1b978b57.js",
+    "runtime-main.js.map": "/React-netflix/static/js/runtime-main.1b978b57.js.map",
+    "static/js/2.c4bf23b5.chunk.js": "/React-netflix/static/js/2.c4bf23b5.chunk.js",
+    "static/js/2.c4bf23b5.chunk.js.map": "/React-netflix/static/js/2.c4bf23b5.chunk.js.map",
+    "index.html": "/React-netflix/index.html",
+    "static/css/main.7f38009c.chunk.css.map": "/React-netflix/static/css/main.7f38009c.chunk.css.map",
+    "static/js/2.c4bf23b5.chunk.js.LICENSE.txt": "/React-netflix/static/js/2.c4bf23b5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2fde901.js",
-    "static/js/2.6edcc1fb.chunk.js",
+    "static/js/runtime-main.1b978b57.js",
+    "static/js/2.c4bf23b5.chunk.js",
     "static/css/main.7f38009c.chunk.css",
     "static/js/main.9a0153bd.chunk.js"
   ]
